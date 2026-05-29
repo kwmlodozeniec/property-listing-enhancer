@@ -1,0 +1,18 @@
+# Packaged extension archives
+*.zip
+*.crx
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Linux
+*~
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo

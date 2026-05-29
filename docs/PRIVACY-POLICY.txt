@@ -1,0 +1,55 @@
+Property Listing Enhancer - Privacy Policy
+
+Last Updated: May 29, 2026
+
+OVERVIEW
+Property Listing Enhancer is a Chrome browser extension that enhances property listing pages on Rightmove by displaying postcodes and providing quick links to official government property information services.
+
+DATA COLLECTION
+The Property Listing Enhancer extension does NOT collect, store, or transmit any user data whatsoever.
+
+Specifically, the extension does NOT:
+• Track your browsing history
+• Collect personal information
+• Store cookies or local data
+• Make network requests to external servers
+• Transmit data to third parties
+• Use analytics or tracking services
+
+PERMISSIONS USED
+The extension requires the following permission:
+
+• Site Access (rightmove.co.uk/properties/*): Required to read property postcode information from property listing pages and inject helpful buttons into the page. The extension ONLY runs on Rightmove property pages and has no access to other websites.
+
+HOW IT WORKS
+The extension:
+1. Reads publicly available postcode data from the property page you're viewing
+2. Displays that postcode as a clickable badge next to the property title
+3. Provides buttons that link to official GOV.UK services
+4. All processing happens locally in your browser - no data leaves your device
+
+THIRD PARTY SERVICES
+The extension provides links to the following official UK government services:
+
+• GOV.UK Energy Performance Certificate service (find-energy-certificate.service.gov.uk)
+• GOV.UK Long-term flood risk checker (check-long-term-flood-risk.service.gov.uk)
+
+When you click these links, you will be directed to GOV.UK websites which have their own privacy policies. Property Listing Enhancer has no control over and assumes no responsibility for the privacy practices of these third-party sites.
+
+CLIPBOARD ACCESS
+The extension can write to your clipboard when you explicitly click the postcode badge or flood risk button. This is used solely to copy the postcode for your convenience. The extension never reads from your clipboard.
+
+OPEN SOURCE
+The extension's source code is fully readable and can be inspected at any time by viewing the extension files in Chrome's extension directory.
+
+CHANGES TO THIS PRIVACY POLICY
+We may update this privacy policy from time to time. Any changes will be posted to this page and, if significant, will be highlighted in the extension update notes.
+
+COMPLIANCE
+This extension complies with:
+• Chrome Web Store Developer Program Policies
+• UK GDPR and Data Protection Act 2018
+• EU General Data Protection Regulation (GDPR)
+
+SUMMARY
+In plain English: This extension doesn't collect, store, or share any of your data. It simply displays information that's already on the page and provides helpful links to government websites. That's it.
